@@ -6,11 +6,11 @@ http://www.meetup.com/Software-Craftsmanship-New-York/
 
 ## Requirements
 
-Deposit and Withdraw
-Transfer
-Account statement (date, amount, balance)
-Statement printing
-Statement filters (just deposits, widthdrawal, date)
+- Deposit and Withdraw
+- Transfer
+- Account statement (date, amount, balance)
+- Statement printing
+- Statement filters (just deposits, widthdrawal, date)
 
 ## The Rules
 1. One level of indentation per method
